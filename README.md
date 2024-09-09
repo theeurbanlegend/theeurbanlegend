@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Cardano feature for DReps to campaign in the era of Voltaire.<br>👯 I’m looking to collaborate on an open source project in Cardano<br>🤝 I’m looking for help with<br>🌱 I’m currently learning PHP, Laravel , Rust<br>💬 Ask me about anything tech related except cheese<br>⚡ Fun fact: I hate cheese
+🔭 I’m currently collaborating on ai, fullstack and blockchain projects, specifically in decentralized governance.<br>👯 I’m looking to collaborate on open-source initiatives.<br>🤝 I’m open to help with coding, problem-solving, and tech-related discussions.<br>🌱 I’m currently learning various programming languages and frameworks.<br>💬 Feel free to ask me about anything tech-related!<br>⚡ Fun fact: I do not like cheese.
 
 
 ## 🌐 Socials:

@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently collaborating on full-stack and blockchain projects, specifically in decentralized governance.<br>👯 I’m looking to collaborate on open-source initiatives.<br>🤝 I’m open to help with coding, problem-solving, and tech-related discussions.<br>🌱 I’m currently learning various programming languages and frameworks.<br>💬 Feel free to ask me about anything tech-related!<br>⚡ Fun fact: I do not like cheese.
+🔭 I’m currently collaborating on full-stack and blockchain projects.<br>👯 I’m looking to collaborate on open-source initiatives.<br>🤝 I’m open to help with coding, problem-solving, and tech-related discussions.<br>🌱 I’m currently learning various programming languages and frameworks.<br>💬 Feel free to ask me about anything tech-related!<br>⚡ Fun fact: I do not like cheese.
 
 
 ## 🌐 Socials:

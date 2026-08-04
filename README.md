@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently collaborating on full-stack and blockchain projects.<br>👯 I’m looking to collaborate on open-source initiatives.<br>🤝 I’m open to help with coding, problem-solving, and tech-related discussions.<br>🌱 I’m currently learning various programming languages and frameworks.<br>💬 Feel free to ask me about anything tech-related!<br>⚡ Fun fact: I do not like cheese.
+Hi, I am Bewton Maina, a full-stack software developer with a particular focus on TS and Rust. I am a person who values reliability; hence, I prefer to build systems with contingencies in place. 
 
 
 ## 🌐 Socials:
